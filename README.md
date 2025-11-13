@@ -51,7 +51,7 @@ Sample visualization: correlation heatmap and predicted vs. actual prices plot (
 ________________________________________
 👩‍💻 Author
 Mehjabin Tonny
-📧 [mehjabintonny007.email@example.com]
+📧 [mehjabintonny007@gmail.com]
 ________________________________________
 🏁 Conclusion
 This project provides a basic understanding of how regression models can be used for predicting house prices.
